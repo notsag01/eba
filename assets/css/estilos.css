@@ -21,3 +21,10 @@ col{
 img:hover{
     filter: grayscale(0) brightness(1);
 }
+.card {
+    box-shadow: rgb(235, 232, 232) 5px 5px 0 0;
+    
+}
+.card:hover{
+    width: 101%;
+}
