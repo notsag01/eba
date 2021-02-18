@@ -14,7 +14,7 @@ img{
     transition: 0,3% linear;
 }
 col{
-    margin: 2px;
+    margin: 1px;
     display: flex;
     flex-wrap: wrap;
 } 
