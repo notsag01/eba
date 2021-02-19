@@ -31,3 +31,6 @@ img:hover{
 .card:hover{
     width: 101%;
 }
+p{
+    line-height: 2;
+}
