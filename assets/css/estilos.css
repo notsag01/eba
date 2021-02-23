@@ -4,6 +4,11 @@
     box-sizing: border-box;
     font-family: 'Newsreader', serif;
 }
+ul{
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 25px;
+}
 h2{
     margin: 0;
 }
